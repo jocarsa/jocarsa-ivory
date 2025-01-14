@@ -1,3 +1,7 @@
 
 blacklisted_ips.log
 unknown_ips.log
+blacklisted_ips_country.log
+blacklisted_ips_user_agent.log
+*.pyc
+unknown_ips_country.log
